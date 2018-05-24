@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326647160447",
+    "firebase_url": "https://sebulbasquiz.firebaseio.com",
+    "project_id": "sebulbasquiz",
+    "storage_bucket": "sebulbasquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326647160447:android:feb8c3e530c19e51",
+        "android_client_info": {
+          "package_name": "com.example.sebastiankarlsson.sebulbasquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326647160447-m65qmfd1i84h0df1ps9neh1u8omt2udb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sebastiankarlsson.sebulbasquiz",
+            "certificate_hash": "82250cc8d5e243a4a1bda1930f135a08c2dbddde"
+          }
+        },
+        {
+          "client_id": "326647160447-ou2fr3bhak3ep1l5pnh4ii19186a7hje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAxTjYLJ_BsIRYE8wrUbdx36a11JXAVEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326647160447-ou2fr3bhak3ep1l5pnh4ii19186a7hje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
